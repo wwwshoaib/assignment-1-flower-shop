@@ -26,4 +26,48 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+margin-top: 10px;
+}
+
+
+.btn-primary {
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 20px;
+border-radius: 5px;
+padding: 10px 20px;
+}  
+
+/* main starts */
+/* our featured starts */
+.our-featured-flower{
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
+.featured-flower-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.featured-flower-description {
+color: #272727;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 600px;
 }
