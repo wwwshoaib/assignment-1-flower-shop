@@ -1,6 +1,10 @@
 
 *{
     margin: 0px;
+} 
+
+section{
+    margin-top: 200px ;
 }
 .header {
     width: 1350px;
@@ -46,7 +50,7 @@ padding: 10px 20px;
 /* main starts */
 /* our featured starts */
 .our-featured-flower{
-    margin-top: 100px;
+  
     text-align: center;
     align-items: center;
     margin-left: 450px;
@@ -147,5 +151,29 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 margin-top: 80px;
+}
+
+/* rectangular section starts */
+
+.rectangular-section {
+    width: 1500px;
+height: 320px;
+background-color: #2727270D;
+margin-left: 100px;
+margin-right: 100px;
+display: flex;
+justify-content: space-around;
+padding: 200px 50px 50px 50px;
+}
+
+.rectangular-section-description {
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+
 }
 
