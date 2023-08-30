@@ -1,0 +1,29 @@
+
+*{
+    margin: 0px;
+}
+.header {
+    width: 1350px;
+    height: 800px;
+    display: flex;
+    background-color: #E554731A;
+    padding: 100px 200px 0px 200px;
+}
+
+.header-title {
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.header-description {
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
